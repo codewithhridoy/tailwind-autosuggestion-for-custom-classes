@@ -11,4 +11,4 @@ slug: "tailwind-autosuggestion-for-custom-classes"
 
 ---
 
-# [Find out the regex list from here.](https://github.com/codewithhridoy/tailwind-autosuggestion-for-custom-classes/blob/main/README.md)
+# [Find out the regex list from here.](https://github.com/codewithhridoy/tailwind-autosuggestion-for-custom-classes/blob/main/REGEX_LIST.md)
